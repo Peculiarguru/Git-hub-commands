@@ -72,7 +72,7 @@ Hello repo
 - cat ~/.ssh/id_ed25519
 
 
-## I now have the commands
+## this is my own repo
 
 
 
