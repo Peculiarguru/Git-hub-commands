@@ -69,7 +69,7 @@ Hello repo
 - ssh-keygen -t ed25519 -c "emailaddress"
 - ls -al -/.ssh
 - cd .ssh
-- cat ~/ssh/id
+- cat ~/ssh/id_ed25519
 
 
 
