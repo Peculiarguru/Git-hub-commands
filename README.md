@@ -66,10 +66,10 @@ Hello repo
 - git log
 
 ## SSH key setup
-- ssh-keygen -t ed25519 -c "emailaddress"
-- ls -al -/.ssh
+- ssh-keygen -ted25519 -C "emailaddress"
+- -ls -la ~/.ssh
 - cd .ssh
-- cat ~/ssh/id_ed25519
+- cat ~/.ssh/id_ed25519
 
 
 
